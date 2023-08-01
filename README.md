@@ -1,3 +1,4 @@
 # Moon-Lander-Webpage
-to run the webpage please make sure that npm is installed: `npm install -g npm`
-then run `npm run dev`
+##### To run the webpage please make sure that npm is installed: `npm install -g npm`.
+##### Or check the version `npm -v`.
+##### Then run `npm run dev`. 
